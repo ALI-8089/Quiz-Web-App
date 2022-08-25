@@ -1,0 +1,37 @@
+
+section{
+    height: auto;
+    min-height: 100%;
+    width: 100%;
+
+}
+body{
+    font-family: inter;
+    margin: 0px;
+    padding: 0px;
+}
+.ans{
+    padding: .25rem;
+    margin: .2rem;
+}
+.ans:hover{
+cursor: pointer;
+background-color: rgb(159, 213, 243,.2);
+
+
+}
+.qNo{
+    width: 1rem;
+    height: 1rem;
+}
+.circle{
+    margin: .2rem;
+    padding:.5rem 1rem;
+    border-radius: 10rem;
+   
+
+}
+img{
+    width: 3rem;
+    padding: .1rem;
+}
